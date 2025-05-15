@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="left">Current, daily and hourly (rest of the day from the time of using) forecast</h4>
+<h4 align="center">Current, daily and hourly (rest of the day from the time of using) forecast</h4>
 
 ###
 
